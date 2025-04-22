@@ -1,2 +1,2 @@
 # hack_contest
-Hackathon team project for hackathon.
+Hackathon teams project for hackathon.
